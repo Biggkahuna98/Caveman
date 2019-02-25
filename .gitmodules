@@ -1,0 +1,3 @@
+[submodule "Caveman/libs/spdlog"]
+	path = Caveman/libs/spdlog
+	url = https://github.com/gabime/spdlog
