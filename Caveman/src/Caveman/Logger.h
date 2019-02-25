@@ -13,8 +13,8 @@ namespace Caveman
 	public:
 		static void Init();
 
-	inline static std::shared_ptr<spdlog::logger>& GetEngineLogger() { return s_EngineLogger; }
-	inline static std::shared_ptr<spdlog::logger>& GetClientLogger() { return s_ClientLogger; }
+		inline static std::shared_ptr<spdlog::logger>& GetEngineLogger() { return s_EngineLogger; }
+		inline static std::shared_ptr<spdlog::logger>& GetClientLogger() { return s_ClientLogger; }
 
 	private:
 		static std::shared_ptr<spdlog::logger> s_EngineLogger;

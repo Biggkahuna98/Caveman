@@ -1,41 +1,31 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.28307.421
-MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Oasis", "Oasis\Oasis.vcxproj", "{4E712118-88F4-42EC-A05F-AB92BC8D6F5B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Caveman", "Caveman\Caveman.vcxproj", "{40731214-AC52-91AF-B56A-1C8621C9F710}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Caveman", "Caveman\Caveman.vcxproj", "{3E1A67EF-C045-4F11-92EA-FC744AC50D70}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Oasis", "Oasis\Oasis.vcxproj", "{E4B7CB0D-50CC-F3BE-194E-971E8521F0EF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
-		Debug|x86 = Debug|x86
+		Distribution|x64 = Distribution|x64
 		Release|x64 = Release|x64
-		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3E1A67EF-C045-4F11-92EA-FC744AC50D70}.Debug|x64.ActiveCfg = Debug|x64
-		{3E1A67EF-C045-4F11-92EA-FC744AC50D70}.Debug|x64.Build.0 = Debug|x64
-		{3E1A67EF-C045-4F11-92EA-FC744AC50D70}.Debug|x86.ActiveCfg = Debug|Win32
-		{3E1A67EF-C045-4F11-92EA-FC744AC50D70}.Debug|x86.Build.0 = Debug|Win32
-		{3E1A67EF-C045-4F11-92EA-FC744AC50D70}.Release|x64.ActiveCfg = Release|x64
-		{3E1A67EF-C045-4F11-92EA-FC744AC50D70}.Release|x64.Build.0 = Release|x64
-		{3E1A67EF-C045-4F11-92EA-FC744AC50D70}.Release|x86.ActiveCfg = Release|Win32
-		{3E1A67EF-C045-4F11-92EA-FC744AC50D70}.Release|x86.Build.0 = Release|Win32
-		{4E712118-88F4-42EC-A05F-AB92BC8D6F5B}.Debug|x64.ActiveCfg = Debug|x64
-		{4E712118-88F4-42EC-A05F-AB92BC8D6F5B}.Debug|x64.Build.0 = Debug|x64
-		{4E712118-88F4-42EC-A05F-AB92BC8D6F5B}.Debug|x86.ActiveCfg = Debug|Win32
-		{4E712118-88F4-42EC-A05F-AB92BC8D6F5B}.Debug|x86.Build.0 = Debug|Win32
-		{4E712118-88F4-42EC-A05F-AB92BC8D6F5B}.Release|x64.ActiveCfg = Release|x64
-		{4E712118-88F4-42EC-A05F-AB92BC8D6F5B}.Release|x64.Build.0 = Release|x64
-		{4E712118-88F4-42EC-A05F-AB92BC8D6F5B}.Release|x86.ActiveCfg = Release|Win32
-		{4E712118-88F4-42EC-A05F-AB92BC8D6F5B}.Release|x86.Build.0 = Release|Win32
+		{40731214-AC52-91AF-B56A-1C8621C9F710}.Debug|x64.ActiveCfg = Debug|x64
+		{40731214-AC52-91AF-B56A-1C8621C9F710}.Debug|x64.Build.0 = Debug|x64
+		{40731214-AC52-91AF-B56A-1C8621C9F710}.Distribution|x64.ActiveCfg = Distribution|x64
+		{40731214-AC52-91AF-B56A-1C8621C9F710}.Distribution|x64.Build.0 = Distribution|x64
+		{40731214-AC52-91AF-B56A-1C8621C9F710}.Release|x64.ActiveCfg = Release|x64
+		{40731214-AC52-91AF-B56A-1C8621C9F710}.Release|x64.Build.0 = Release|x64
+		{E4B7CB0D-50CC-F3BE-194E-971E8521F0EF}.Debug|x64.ActiveCfg = Debug|x64
+		{E4B7CB0D-50CC-F3BE-194E-971E8521F0EF}.Debug|x64.Build.0 = Debug|x64
+		{E4B7CB0D-50CC-F3BE-194E-971E8521F0EF}.Distribution|x64.ActiveCfg = Distribution|x64
+		{E4B7CB0D-50CC-F3BE-194E-971E8521F0EF}.Distribution|x64.Build.0 = Distribution|x64
+		{E4B7CB0D-50CC-F3BE-194E-971E8521F0EF}.Release|x64.ActiveCfg = Release|x64
+		{E4B7CB0D-50CC-F3BE-194E-971E8521F0EF}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {D5312382-6716-49B6-9BF5-5D7D25E67C83}
 	EndGlobalSection
 EndGlobal
